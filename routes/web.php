@@ -13,7 +13,7 @@
 
 
 
-Route::get('/', 'AboutController@index');
+
 /*Route::get('/', function () {
     return view('about');
 });
